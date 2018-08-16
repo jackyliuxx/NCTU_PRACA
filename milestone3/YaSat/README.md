@@ -19,7 +19,7 @@ make
 ```
 ***
 Test all .cnf file in Sample_benchmarks (except par32-1 and par32-1-c).  
-The result will be in Sample_benchmarks/filename.sat
+The result will be in Sample_benchmarks/&lt;filename&gt;.sat
 ```
 make
 ./test.sh
